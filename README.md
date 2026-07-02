@@ -1,4 +1,4 @@
-# 一张图 · 压制工具 v3.0
+# 一张图 · 压制工具 
 
 Apache-2.0 | C# .NET 7 + WinForms + FFmpeg | Windows 10/11 | 2026.07
 
