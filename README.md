@@ -84,7 +84,7 @@ OnePicVideo/
 
 ## 许可证
 
-本软件采用 [Apache-2.0](https://opensource.org/licenses/Apache-2.0) 协议开源。
+本软件采用 [AGPL-3.0 许可证]协议开源。
 
 本项目参考了以下开源项目：
 - [jitwxs/163MusicLyrics](https://github.com/jitwxs/163MusicLyrics)（Apache-2.0）— 163 音乐 API weapi 加密实现
